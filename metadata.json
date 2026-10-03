@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Mariam Nasrallah-Moussa | Family Medicine",
+  "description": "Warm, direct medical advice and comprehensive family medicine care for every stage of life by Dr. Mariam Nasrallah-Moussa, MD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
